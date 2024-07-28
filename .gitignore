@@ -1,0 +1,8 @@
+./artifacts
+./cache
+.env
+
+artifacts/
+cache/
+node_modules/
+ignition/
